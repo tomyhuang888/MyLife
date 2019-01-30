@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Weather</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<table>
+    <!--<tr>-->
+        <!--<th>NAME</th>-->
+        <!--<th>PRICE</th>-->
+        <!--<th>IN STOCK</th>-->
+    <!--</tr>-->
+    <tr th:each="wod : ${wods}">
+        <td th:text="${wod.getProperties()}">Properties</td>
+    </tr>
+</table>
+<!--<p th:text="'Hello, ' + ${name} + '!'" />-->
+</body>
+</html>

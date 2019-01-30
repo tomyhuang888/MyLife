@@ -1,0 +1,1299 @@
+USCA0001 Acampo
+USCA0002 Acton
+USCA0003 Adelanto
+USCA0004 Adin
+USCA0005 Agoura Hills
+USCA0006 Aguanga
+USCA0007 Ahwahnee
+USCA0008 Alameda
+USCA0009 Alamo
+USCA0010 Albany
+USCA0011 Albion
+USCA0012 Alderpoint
+USCA0013 Alhambra
+USCA0014 Aliso Viejo
+USCA0015 Alleghany
+USCA0016 Alpaugh
+USCA0017 Alpine
+USCA0018 Alpine Meadows
+USCA0019 Alta
+USCA0020 Alta Loma
+USCA0021 Altadena
+USCA0022 Altaville
+USCA0023 Alturas
+USCA0024 Alviso
+USCA0025 Amador City
+USCA0026 Amboy
+USCA0027 Anaheim
+USCA0028 Anderson
+USCA0029 Angels Camp
+USCA0030 Angelus Oaks
+USCA0031 Angwin
+USCA0032 Annapolis
+USCA0033 Antelope
+USCA0034 Antioch
+USCA0035 Anza
+USCA0036 Apple Valley
+USCA0037 Applegate
+USCA0038 Aptos
+USCA0039 Arbuckle
+USCA0040 Arcadia
+USCA0041 Arcata
+USCA0042 Armona
+USCA0043 Arnold
+USCA0044 Aromas
+USCA0045 Arroyo Grande
+USCA0046 Artesia
+USCA0047 Artois
+USCA0048 Arvin
+USCA0049 Atascadero
+USCA0050 Atherton
+USCA0051 Atwater
+USCA0052 Atwood
+USCA0053 Auberry
+USCA0054 Auburn
+USCA0055 Avalon
+USCA0056 Avenal
+USCA0057 Avery
+USCA0058 Avila Beach
+USCA0059 Azusa
+USCA0060 Badger
+USCA0061 Baker
+USCA0062 Bakersfield
+USCA0063 Baldwin Park
+USCA0064 Ballico
+USCA0065 Bangor
+USCA0066 Banning
+USCA0067 Banta
+USCA0068 Bard
+USCA0069 Barstow
+USCA0070 Bass Lake
+USCA0071 Bayside
+USCA0072 Beale Air Force Base
+USCA0073 Bear Mountain Ski Resort
+USCA0074 Bear Valley Ski Area
+USCA0075 Beaumont
+USCA0076 Beckwourth
+USCA0077 Belden
+USCA0078 Bell
+USCA0079 Bell Gardens
+USCA0080 Bella Vista
+USCA0081 Bellflower
+USCA0082 Belmont
+USCA0083 Tiburon
+USCA0084 Ben Lomond
+USCA0085 Benicia
+USCA0086 Benton
+USCA0087 Berkeley
+USCA0088 Berry Creek
+USCA0089 Bethel Island
+USCA0090 Beverly Hills
+USCA0091 Bieber
+USCA0092 Big Bar
+USCA0093 Big Bear City
+USCA0094 Big Bear Lake
+USCA0095 Big Bend
+USCA0096 Big Creek
+USCA0097 Big Oak Flat
+USCA0098 Big Pine
+USCA0099 Big Sur
+USCA0100 Biggs
+USCA0101 Biola
+USCA0102 Birds Landing
+USCA0103 Bishop
+USCA0104 Blairsden-graeagle
+USCA0105 Blocksburg
+USCA0106 Bloomington
+USCA0107 Blue Canyon
+USCA0108 Blue Jay
+USCA0109 Blue Lake
+USCA0110 Blythe
+USCA0111 Bodega
+USCA0112 Bodega Bay
+USCA0113 Bodfish
+USCA0114 Bolinas
+USCA0115 Bonita
+USCA0116 Bonsall
+USCA0117 Boonville
+USCA0118 Boron
+USCA0119 Borrego Springs
+USCA0120 Boulder Creek
+USCA0121 Boulevard
+USCA0122 Boyes Hot Springs
+USCA0123 Bradley
+USCA0124 Brandeis
+USCA0125 Branscomb
+USCA0126 Brawley
+USCA0127 Brea
+USCA0128 Brentwood
+USCA0129 Bridgeport
+USCA0130 Bridgeville
+USCA0131 Brisbane
+USCA0132 Brookdale
+USCA0133 Brooks
+USCA0134 Browns Valley
+USCA0135 Brownsville
+USCA0136 Bryn Mawr
+USCA0137 Buellton
+USCA0138 Buena Park
+USCA0139 Burbank
+USCA0140 Burlingame
+USCA0141 Burney
+USCA0142 Burnt Ranch
+USCA0143 Burrel
+USCA0144 Burson
+USCA0145 Butte City
+USCA0146 Buttonwillow
+USCA0147 Byron
+USCA0148 Cabazon
+USCA0149 Calabasas
+USCA0150 Calexico
+USCA0151 Caliente
+USCA0152 California City
+USCA0153 California Hot Springs
+USCA0154 Calimesa
+USCA0155 Calipatria
+USCA0156 Calistoga
+USCA0157 Callahan
+USCA0158 Calpella
+USCA0159 Calpine
+USCA0160 Camarillo
+USCA0161 Cambria
+USCA0162 Camino
+USCA0163 Camp Meeker
+USCA0164 Camp Nelson
+USCA0165 Camp Pendleton
+USCA0166 Campbell
+USCA0167 Campo
+USCA0168 Campo Seco
+USCA0169 Camptonville
+USCA0170 Canby
+USCA0171 Canoga Park
+USCA0172 Cantil
+USCA0173 Cantua Creek
+USCA0174 Canyon
+USCA0175 Canyon Country
+USCA0176 Canyon Dam
+USCA0177 Capay
+USCA0178 Capistrano Beach
+USCA0179 Capitola
+USCA0180 Cardiff-by-the-Sea
+USCA0181 Carlotta
+USCA0182 Carlsbad
+USCA0183 Carmel
+USCA0184 Carmel Valley
+USCA0185 Carmichael
+USCA0186 Carnelian Bay
+USCA0187 Carpinteria
+USCA0188 Carson
+USCA0189 Caruthers
+USCA0190 Casmalia
+USCA0191 Caspar
+USCA0192 Cassel
+USCA0193 Castaic
+USCA0194 Castella
+USCA0195 Castro Valley
+USCA0196 Castroville
+USCA0197 Cathedral City
+USCA0198 Catheys Valley
+USCA0199 Cayucos
+USCA0200 Cazadero
+USCA0201 Cedar Glen
+USCA0202 Cedar Ridge
+USCA0203 Cedarpines Park
+USCA0204 Cedarville
+USCA0205 Ceres
+USCA0206 Cerritos
+USCA0207 Challenge
+USCA0208 Chatsworth
+USCA0209 Chester
+USCA0210 Chicago Park
+USCA0211 Chico
+USCA0212 Chilcoot
+USCA0213 China Lake
+USCA0214 Chinese Camp
+USCA0215 Chino
+USCA0216 Chino Hills
+USCA0217 Chowchilla
+USCA0218 Chualar
+USCA0219 Chula Vista
+USCA0220 Cima
+USCA0221 Citrus Heights
+USCA0222 City of Industry
+USCA0223 Claremont
+USCA0224 Clarksburg
+USCA0225 Clayton
+USCA0226 Clearlake
+USCA0227 Clearlake Oaks
+USCA0228 Clearlake Park
+USCA0229 Clements
+USCA0230 Clio
+USCA0231 Clipper Mills
+USCA0232 Cloverdale
+USCA0233 Clovis
+USCA0234 Coachella
+USCA0235 Coalinga
+USCA0236 Coarsegold
+USCA0237 Cobb
+USCA0238 Coleville
+USCA0239 Colfax
+USCA0240 College City
+USCA0241 Coloma
+USCA0242 Colton
+USCA0243 Columbia
+USCA0244 Colusa
+USCA0245 Comptche
+USCA0246 Compton
+USCA0247 Concord
+USCA0248 Cool
+USCA0249 Copperopolis
+USCA0250 Corcoran
+USCA0251 Corning
+USCA0252 Corona
+USCA0253 Corona Del Mar
+USCA0254 Coronado
+USCA0255 Corte Madera
+USCA0256 Costa Mesa
+USCA0257 Cotati
+USCA0258 Cottonwood
+USCA0259 Coulterville
+USCA0260 Courtland
+USCA0261 Covelo
+USCA0262 Covina
+USCA0263 Coyote
+USCA0264 Crescent City
+USCA0265 Crescent Mills
+USCA0266 Cressey
+USCA0267 Crest Park
+USCA0268 Crestline
+USCA0269 Creston
+USCA0270 Crockett
+USCA0271 Crows Landing
+USCA0272 Culver City
+USCA0273 Cupertino
+USCA0274 Cutler
+USCA0275 Cutten
+USCA0276 Cypress
+USCA0277 Daggett
+USCA0278 Daly City
+USCA0279 Dana Point
+USCA0280 Danville
+USCA0281 Dardanelle
+USCA0282 Darwin
+USCA0283 Davenport
+USCA0284 Davis
+USCA0285 Davis Creek
+USCA0286 Death Valley
+USCA0287 Deer Park
+USCA0288 Del Mar
+USCA0289 Del Rey
+USCA0290 Delano
+USCA0291 Delhi
+USCA0292 Denair
+USCA0293 Descanso
+USCA0294 Desert Center
+USCA0295 Desert Hot Springs
+USCA0296 Diablo
+USCA0297 Diamond Bar
+USCA0298 Diamond Springs
+USCA0299 Dillon Beach
+USCA0300 Dinuba
+USCA0301 Dixon
+USCA0302 Dobbins
+USCA0303 Donner Ski Ranch
+USCA0304 Dorris
+USCA0305 Dos Palos
+USCA0306 Dos Rios
+USCA0307 Douglas City
+USCA0308 Douglas Flat
+USCA0309 Downey
+USCA0310 Downieville
+USCA0311 Doyle
+USCA0312 Drytown
+USCA0313 Duarte
+USCA0314 Dublin
+USCA0315 Ducor
+USCA0316 Dulzura
+USCA0317 Duncans Mills
+USCA0318 Dunlap
+USCA0319 Dunnigan
+USCA0320 Dunsmuir
+USCA0321 Durham
+USCA0322 Dutch Flat
+USCA0323 Eagleville
+USCA0324 Earlimart
+USCA0325 Earp
+USCA0326 East Irvine
+USCA0327 Echo Lake
+USCA0328 Edison
+USCA0329 Edwards
+USCA0330 Edwards Air Force Base
+USCA0331 El Cajon
+USCA0332 El Centro
+USCA0333 El Cerrito
+USCA0334 El Dorado
+USCA0335 El Dorado Hills
+USCA0336 El Granada
+USCA0337 El Macero
+USCA0338 El Monte
+USCA0339 El Nido
+USCA0340 El Portal
+USCA0341 El Segundo
+USCA0342 El Sobrante
+USCA0343 El Verano
+USCA0344 Eldridge
+USCA0345 Elk
+USCA0346 Elk Creek
+USCA0347 Elk Grove
+USCA0348 Elmira
+USCA0349 Elverta
+USCA0350 Emeryville
+USCA0351 Emigrant Gap
+USCA0352 Empire
+USCA0353 Encinitas
+USCA0354 Encino
+USCA0355 Escalon
+USCA0356 Escondido
+USCA0357 Esparto
+USCA0358 Essex
+USCA0359 Etna
+USCA0360 Eureka
+USCA0361 Exeter
+USCA0362 Fair Oaks
+USCA0363 Fairfax
+USCA0364 Fairfield
+USCA0365 Fall River Mills
+USCA0366 Fallbrook
+USCA0367 Farmersville
+USCA0368 Farmington
+USCA0369 Fawnskin
+USCA0370 Feather Falls
+USCA0371 Fellows
+USCA0372 Felton
+USCA0373 Ferndale
+USCA0374 Fiddletown
+USCA0375 Fields Landing
+USCA0376 Fillmore
+USCA0377 Finley
+USCA0378 Firebaugh
+USCA0379 Fish Camp
+USCA0380 Five Points
+USCA0381 Floriston
+USCA0382 Flournoy
+USCA0383 Folsom
+USCA0384 Fontana
+USCA0385 Foothill Ranch
+USCA0386 Forbestown
+USCA0387 Forest Falls
+USCA0388 Forest Knolls
+USCA0389 Forest Ranch
+USCA0390 Foresthill
+USCA0391 Forestville
+USCA0392 Forks Of Salmon
+USCA0393 Fort Bidwell
+USCA0394 Fort Bragg
+USCA0395 Fort Dick
+USCA0396 Fort Irwin
+USCA0397 Fort Jones
+USCA0398 Fortuna
+USCA0399 Fountain Valley
+USCA0400 Fowler
+USCA0401 Frazier Park
+USCA0402 Freedom
+USCA0403 Fremont
+USCA0404 French Camp
+USCA0405 French Gulch
+USCA0406 Fresno
+USCA0407 Friant
+USCA0408 Fullerton
+USCA0409 Fulton
+USCA0410 Galt
+USCA0411 Garberville
+USCA0412 Garden Grove
+USCA0413 Garden Valley
+USCA0414 Gardena
+USCA0415 Gasquet
+USCA0416 Gazelle
+USCA0417 Georgetown
+USCA0418 Gerber
+USCA0419 Geyserville
+USCA0420 Gilroy
+USCA0421 Glen Ellen
+USCA0422 Glencoe
+USCA0423 Glendale
+USCA0424 Glendora
+USCA0425 Glenhaven
+USCA0426 Glenn
+USCA0427 Glennville
+USCA0428 Gold Run
+USCA0429 Goleta
+USCA0430 Gonzales
+USCA0431 Goodyears Bar
+USCA0432 Gorman
+USCA0433 Goshen
+USCA0434 Granada Hills
+USCA0435 Grand Terrace
+USCA0436 Granite Bay
+USCA0437 Grass Valley
+USCA0438 Graton
+USCA0439 Green Valley Lake
+USCA0440 Greenbrae
+USCA0441 Greenfield
+USCA0442 Greenview
+USCA0443 Greenville
+USCA0444 Greenwood
+USCA0445 Grenada
+USCA0446 Gridley
+USCA0447 Grimes
+USCA0448 Grizzly Flat
+USCA0449 Groveland
+USCA0450 Grover Beach
+USCA0451 Guadalupe
+USCA0452 Gualala
+USCA0453 Guasti
+USCA0454 Guatay
+USCA0455 Guerneville
+USCA0456 Guinda
+USCA0457 Gustine
+USCA0458 Hacienda Heights
+USCA0459 Half Moon Bay
+USCA0460 Hamilton City
+USCA0461 Hanford
+USCA0462 Happy Camp
+USCA0463 Harbor City
+USCA0464 Harmony
+USCA0465 Hat Creek
+USCA0466 Hathaway Pines
+USCA0467 Hawaiian Gardens
+USCA0468 Hawthorne
+USCA0469 Hayfork
+USCA0470 Hayward
+USCA0471 Healdsburg
+USCA0472 Heavenly Ski Resort
+USCA0473 Heber
+USCA0474 Helendale
+USCA0475 Helm
+USCA0476 Hemet
+USCA0477 Herald
+USCA0478 Hercules
+USCA0479 Herlong
+USCA0480 Hermosa Beach
+USCA0481 Hesperia
+USCA0482 Hickman
+USCA0483 Highland
+USCA0484 Hilmar
+USCA0485 Hinkley
+USCA0486 Hollister
+USCA0487 Holt
+USCA0488 Holtville
+USCA0489 Holy City
+USCA0490 Homeland
+USCA0491 Homewood
+USCA0492 Honeydew
+USCA0493 Hood
+USCA0494 Hoopa
+USCA0495 Hopland
+USCA0496 Hornbrook
+USCA0497 Hornitos
+USCA0498 Hughson
+USCA0499 Hume
+USCA0500 Huntington Beach
+USCA0501 Huntington Lake
+USCA0502 Huntington Park
+USCA0503 Huron
+USCA0504 Hyampom
+USCA0505 Hydesville
+USCA0506 Idyllwild
+USCA0507 Igo
+USCA0508 Imperial
+USCA0509 Imperial Beach
+USCA0510 Independence
+USCA0511 Indian Wells
+USCA0512 Indio
+USCA0513 Inglewood
+USCA0514 Inverness
+USCA0515 Inyokern
+USCA0516 Ione
+USCA0517 Irvine
+USCA0518 Isleton
+USCA0519 Ivanhoe
+USCA0520 Jackson
+USCA0521 Jacumba
+USCA0522 Jamestown
+USCA0523 Jamul
+USCA0524 Janesville
+USCA0525 Jenner
+USCA0526 Johannesburg
+USCA0527 Jolon
+USCA0528 Joshua Tree
+USCA0529 Joshua Tree Natl Park
+USCA0530 Julian
+USCA0531 Junction City
+USCA0532 June Lake
+USCA0533 June Mountain Ski Area
+USCA0534 Kaweah
+USCA0535 Keeler
+USCA0536 Keene
+USCA0537 Kelseyville
+USCA0538 Kentfield
+USCA0539 Kenwood
+USCA0540 Kerman
+USCA0541 Kernville
+USCA0542 Kettleman City
+USCA0543 Keyes
+USCA0544 King City
+USCA0545 Kings Beach
+USCA0546 Kings Canyon Natl Park
+USCA0547 Kings Canyon Natl Park (north)
+USCA0548 Kings Canyon Natl Park (south)
+USCA0549 Kingsburg
+USCA0550 Kirkwood
+USCA0551 Kirkwood Ski Resort
+USCA0552 Kit Carson
+USCA0553 Klamath
+USCA0554 Klamath River
+USCA0555 Kneeland
+USCA0556 Knights Landing
+USCA0557 Knightsen
+USCA0558 Korbel
+USCA0559 Kyburz
+USCA0560 La Canada Flintridge
+USCA0561 La Crescenta
+USCA0562 La Grange
+USCA0563 La Habra
+USCA0564 La Honda
+USCA0565 La Jolla
+USCA0566 La Mesa
+USCA0567 La Mirada
+USCA0568 La Palma
+USCA0569 La Puente
+USCA0570 La Quinta
+USCA0571 La Verne
+USCA0572 Lafayette
+USCA0573 Laguna Beach
+USCA0574 Laguna Hills
+USCA0575 Laguna Niguel
+USCA0576 Lagunitas
+USCA0577 Lake Almanor
+USCA0578 Lake Arrowhead
+USCA0579 Lake City
+USCA0580 Lake Elsinore
+USCA0581 Lake Forest
+USCA0582 Lake Hughes
+USCA0583 Lake Isabella
+USCA0584 Lake Tahoe
+USCA0585 Lakehead
+USCA0586 Lakeport
+USCA0587 Lakeshore
+USCA0588 Lakeside
+USCA0589 Lakewood
+USCA0590 Lamont
+USCA0591 Lancaster
+USCA0592 Landers
+USCA0593 Larkspur
+USCA0594 Lassen Volcanic Natl Park
+USCA0595 Lathrop
+USCA0596 Laton
+USCA0597 Lawndale
+USCA0598 Laytonville
+USCA0599 Le Grand
+USCA0600 Lebec
+USCA0601 Lee Vining
+USCA0602 Leggett
+USCA0603 Lemon Cove
+USCA0604 Lemon Grove
+USCA0605 Lemoore
+USCA0606 Lewiston
+USCA0607 Likely
+USCA0608 Lincoln
+USCA0609 Lincoln Acres
+USCA0610 Linden
+USCA0611 Lindsay
+USCA0612 Litchfield
+USCA0613 Little Lake
+USCA0614 Little River
+USCA0616 Littlerock
+USCA0617 Live Oak
+USCA0618 Livermore
+USCA0619 Livingston
+USCA0620 Llano
+USCA0621 Lockeford
+USCA0622 Lockwood
+USCA0623 Lodi
+USCA0624 Loleta
+USCA0625 Loma Linda
+USCA0626 Loma Mar
+USCA0627 Lomita
+USCA0628 Lompoc
+USCA0629 Lompoc/Vandenberg AFB
+USCA0630 Lone Pine
+USCA0631 Long Barn
+USCA0632 Long Beach
+USCA0633 Lookout
+USCA0634 Loomis
+USCA0635 Los Alamitos
+USCA0636 Los Alamos
+USCA0637 Los Altos
+USCA0638 Los Angeles
+USCA0639 Los Angeles/LA Intl Arpt
+USCA0640 Los Banos
+USCA0641 Los Gatos
+USCA0642 Los Molinos
+USCA0643 Los Olivos
+USCA0644 Los Osos
+USCA0645 Lost Hills
+USCA0646 Lotus
+USCA0647 Lower Lake
+USCA0648 Loyalton
+USCA0649 Lucerne
+USCA0650 Lucerne Valley
+USCA0651 Ludlow
+USCA0652 Lynwood
+USCA0653 Lytle Creek
+USCA0654 MacDoel
+USCA0655 Mad River
+USCA0656 Madeline
+USCA0657 Madera
+USCA0658 Madison
+USCA0659 Magalia
+USCA0660 Malibu
+USCA0661 Mammoth Lakes
+USCA0662 Mammoth Mountain Ski Area
+USCA0663 Manchester
+USCA0664 Manhattan Beach
+USCA0665 Manteca
+USCA0666 Manton
+USCA0667 March AFB
+USCA0668 Maricopa
+USCA0669 Marina
+USCA0670 Marina Del Rey
+USCA0671 Mariposa
+USCA0672 Markleeville
+USCA0673 Marshall
+USCA0674 Martell
+USCA0675 Martinez
+USCA0676 Marysville
+USCA0677 Marysville/Beale AFB
+USCA0678 Mather
+USCA0679 Maxwell
+USCA0680 Maywood
+USCA0681 McArthur
+USCA0682 McClellan AFB
+USCA0683 McCloud
+USCA0684 McFarland
+USCA0685 McKinleyville
+USCA0686 McKittrick
+USCA0687 Meadow Valley
+USCA0688 Meadow Vista
+USCA0689 Mecca
+USCA0690 Mendocino
+USCA0691 Mendota
+USCA0692 Menifee
+USCA0693 Menlo Park
+USCA0694 Mentone
+USCA0695 Merced
+USCA0696 Meridian
+USCA0697 Mi Wuk Village
+USCA0698 Middletown
+USCA0699 Midpines
+USCA0700 Midway City
+USCA0701 Milford
+USCA0702 Mill Creek
+USCA0703 Mill Valley
+USCA0704 Millbrae
+USCA0705 Millville
+USCA0706 Milpitas
+USCA0707 Mineral
+USCA0708 Mira Loma
+USCA0709 Miramonte
+USCA0710 Miranda
+USCA0711 Mission Hills
+USCA0712 Mission Viejo
+USCA0713 Moccasin
+USCA0714 Modesto
+USCA0715 Mojave
+USCA0716 Mokelumne Hill
+USCA0717 Mono Hot Springs
+USCA0718 Monrovia
+USCA0719 Montague
+USCA0720 Montara
+USCA0721 Montclair
+USCA0722 Monte Rio
+USCA0723 Montebello
+USCA0724 Monterey
+USCA0725 Monterey Park
+USCA0726 Montgomery Creek
+USCA0727 Montrose
+USCA0728 Moorpark
+USCA0729 Moraga
+USCA0730 Moreno Valley
+USCA0731 Morgan Hill
+USCA0732 Morongo Valley
+USCA0733 Morro Bay
+USCA0734 Moss Beach
+USCA0735 Moss Landing
+USCA0736 Mount Aukum
+USCA0737 Mount Baldy
+USCA0738 Mount Hamilton
+USCA0739 Mount Hermon
+USCA0740 Mount Laguna
+USCA0741 Mount Shasta
+USCA0742 Mount Wilson
+USCA0743 Mountain Center
+USCA0744 Mountain Pass
+USCA0745 Mountain Ranch
+USCA0746 Mountain View
+USCA0747 Murphys
+USCA0748 Murrieta
+USCA0749 Myers Flat
+USCA0750 Napa
+USCA0751 National City
+USCA0752 Navarro
+USCA0753 Needles
+USCA0754 Nelson
+USCA0755 Nevada City
+USCA0756 New Almaden
+USCA0757 New Cuyama
+USCA0758 Newark
+USCA0759 Newberry Springs
+USCA0760 Newbury Park
+USCA0761 Newcastle
+USCA0762 Newhall
+USCA0763 Newman
+USCA0764 Newport Beach
+USCA0765 Newport Coast
+USCA0766 Nicasio
+USCA0767 Nice
+USCA0768 Nicolaus
+USCA0769 Niland
+USCA0770 Nipomo
+USCA0771 Nipton
+USCA0772 Norco
+USCA0773 Norden
+USCA0774 North Fork
+USCA0775 North Highlands
+USCA0776 North Hills
+USCA0777 North Hollywood
+USCA0778 North Palm Springs
+USCA0779 North San Juan
+USCA0780 Northridge
+USCA0781 Northstar-at-tahoe
+USCA0782 Norwalk
+USCA0783 Novato
+USCA0784 Nubieber
+USCA0785 Nuevo
+USCA0786 Oak Park
+USCA0787 Oak Run
+USCA0788 Oak View
+USCA0789 Oakdale
+USCA0790 Oakhurst
+USCA0791 Oakland
+USCA0792 Oakley
+USCA0793 Oakville
+USCA0794 Obrien
+USCA0795 Occidental
+USCA0796 Oceano
+USCA0797 Oceanside
+USCA0798 Ocotillo
+USCA0799 Ojai
+USCA0800 Olancha
+USCA0801 Old Station
+USCA0802 Olema
+USCA0803 Olivehurst
+USCA0804 Olympic Valley
+USCA0805 O'Neals
+USCA0806 Ontario
+USCA0807 Onyx
+USCA0808 Orange
+USCA0809 Orange Cove
+USCA0810 Orangevale
+USCA0811 Oregon House
+USCA0812 Orick
+USCA0813 Orinda
+USCA0814 Orland
+USCA0815 Orleans
+USCA0816 Oro Grande
+USCA0817 Orosi
+USCA0818 Oroville
+USCA0819 Oxnard
+USCA0820 Pacific Grove
+USCA0821 Pacific Palisades
+USCA0822 Pacifica
+USCA0823 Pacoima
+USCA0824 Paicines
+USCA0825 Pala
+USCA0826 Palermo
+USCA0827 Palm Desert
+USCA0828 Palm Springs
+USCA0829 Palmdale
+USCA0830 Palo Alto
+USCA0831 Palo Cedro
+USCA0832 Palo Verde
+USCA0833 Palomar Mountain
+USCA0834 Palos Verdes Estates
+USCA0835 Panorama City
+USCA0836 Paradise
+USCA0837 Paramount
+USCA0838 Parker Dam
+USCA0839 Parlier
+USCA0840 Pasadena
+USCA0841 Paskenta
+USCA0842 Paso Robles
+USCA0843 Patterson
+USCA0844 Patton
+USCA0845 Pauma Valley
+USCA0846 Paynes Creek
+USCA0847 Pearblossom
+USCA0848 Pebble Beach
+USCA0849 Penn Valley
+USCA0850 Penngrove
+USCA0851 Penryn
+USCA0852 Perris
+USCA0853 Pescadero
+USCA0854 Petaluma
+USCA0855 Petrolia
+USCA0856 Phelan
+USCA0857 Phillipsville
+USCA0858 Philo
+USCA0859 Pico Rivera
+USCA0860 Piedmont
+USCA0861 Piedra
+USCA0862 Piercy
+USCA0863 Pilot Hill
+USCA0864 Pine Grove
+USCA0865 Pine Valley
+USCA0866 Pinecrest
+USCA0867 Pinole
+USCA0868 Pinon Hills
+USCA0869 Pioneer
+USCA0870 Pioneertown
+USCA0871 Piru
+USCA0872 Pismo Beach
+USCA0873 Pittsburg
+USCA0874 Pixley
+USCA0875 Placentia
+USCA0876 Placerville
+USCA0877 Planada
+USCA0878 Platina
+USCA0879 Playa Del Rey
+USCA0880 Pleasant Grove
+USCA0881 Pleasant Hill
+USCA0882 Pleasanton
+USCA0883 Plymouth
+USCA0884 Point Arena
+USCA0885 Point Mugu
+USCA0886 Point Mugu NAWC
+USCA0887 Point Reyes Station
+USCA0888 Pollock Pines
+USCA0889 Pomona
+USCA0890 Pope Valley
+USCA0891 Port Costa
+USCA0892 Port Hueneme
+USCA0893 Port Hueneme CBC Base
+USCA0894 Porterville
+USCA0895 Portola
+USCA0896 Portola Valley
+USCA0897 Posey
+USCA0898 Potrero
+USCA0899 Potter Valley
+USCA0900 Poway
+USCA0901 Prather
+USCA0902 Princeton
+USCA0903 Proberta
+USCA0904 Quincy
+USCA0905 Rackerby
+USCA0906 Rail Road Flat
+USCA0907 Raisin City
+USCA0908 Ramona
+USCA0909 Ranchita
+USCA0910 Rancho Cordova
+USCA0911 Rancho Cucamonga
+USCA0912 Rancho Mirage
+USCA0913 Rancho Palos Verdes
+USCA0914 Rancho Santa Fe
+USCA0915 Rancho Santa Margarita
+USCA0916 Randsburg
+USCA0917 Ravendale
+USCA0918 Raymond
+USCA0919 Red Bluff
+USCA0920 Red Mountain
+USCA0921 Redcrest
+USCA0922 Redding
+USCA0923 Redlands
+USCA0924 Redondo Beach
+USCA0925 Redway
+USCA0926 Redwood City
+USCA0927 Redwood Estates
+USCA0928 Redwood Natl Park
+USCA0929 Redwood Valley
+USCA0930 Reedley
+USCA0931 Represa
+USCA0932 Rescue
+USCA0933 Reseda
+USCA0934 Rialto
+USCA0935 Richgrove
+USCA0936 Richmond
+USCA0937 Richvale
+USCA0938 Ridgecrest
+USCA0939 Rimforest
+USCA0940 Rio Dell
+USCA0941 Rio Linda
+USCA0942 Rio Nido
+USCA0943 Rio Oso
+USCA0944 Rio Vista
+USCA0945 Ripon
+USCA0946 River Pines
+USCA0947 Riverbank
+USCA0948 Riverdale
+USCA0949 Riverside
+USCA0950 Riverside/March AFB
+USCA0951 Robbins
+USCA0952 Rocklin
+USCA0953 Rodeo
+USCA0954 Rohnert Park
+USCA0955 Rosamond
+USCA0956 Rosemead
+USCA0957 Roseville
+USCA0958 Ross
+USCA0959 Rough And Ready
+USCA0960 Round Mountain
+USCA0961 Rowland Heights
+USCA0962 Royal George Cross Country Ski Resort
+USCA0963 Rumsey
+USCA0964 Running Springs
+USCA0965 Rutherford
+USCA0966 Ryde
+USCA0967 Sacramento
+USCA0968 Sacramento/McClellan AFB
+USCA0969 Saint Helena
+USCA0970 Salida
+USCA0971 Salinas
+USCA0972 Salton City
+USCA0973 Salyer
+USCA0974 Samoa
+USCA0975 San Andreas
+USCA0976 San Anselmo
+USCA0977 San Ardo
+USCA0978 San Bernardino
+USCA0979 San Bruno
+USCA0980 San Carlos
+USCA0981 San Clemente
+USCA0982 San Diego
+USCA0983 San Diego/Miramar MCAS
+USCA0984 San Diego/Montgomery Field
+USCA0985 San Dimas
+USCA0986 San Fernando
+USCA0987 San Francisco
+USCA0988 San Gabriel
+USCA0989 San Geronimo
+USCA0990 San Gregorio
+USCA0991 San Jacinto
+USCA0992 San Joaquin
+USCA0993 San Jose
+USCA0994 San Jose/Reid-Hillview Arpt
+USCA0995 San Juan Bautista
+USCA0996 San Juan Capistrano
+USCA0997 San Leandro
+USCA0998 San Lorenzo
+USCA0999 San Lucas
+USCA1000 San Luis Obispo
+USCA1001 San Luis Rey
+USCA1002 San Marcos
+USCA1003 San Marino
+USCA1004 San Martin
+USCA1005 San Mateo
+USCA1006 San Miguel
+USCA1007 San Nicolas Island
+USCA1008 San Pablo
+USCA1009 San Pedro
+USCA1010 San Quentin
+USCA1011 San Rafael
+USCA1012 San Ramon
+USCA1013 San Simeon
+USCA1014 San Ysidro
+USCA1015 Sanger
+USCA1016 Santa Ana
+USCA1017 Santa Barbara
+USCA1018 Santa Clara
+USCA1019 Santa Clarita
+USCA1020 Santa Cruz
+USCA1021 Santa Fe Springs
+USCA1022 Santa Margarita
+USCA1023 Santa Maria
+USCA1024 Santa Monica
+USCA1025 Santa Paula
+USCA1026 Santa Rita Park
+USCA1027 Santa Rosa
+USCA1028 Santa Ynez
+USCA1029 Santa Ysabel
+USCA1030 Santee
+USCA1031 Saratoga
+USCA1032 Sausalito
+USCA1033 Scotia
+USCA1034 Scott Bar
+USCA1035 Scotts Valley
+USCA1036 Seal Beach
+USCA1037 Seaside
+USCA1038 Sebastopol
+USCA1039 Seeley
+USCA1040 Seiad Valley
+USCA1041 Selma
+USCA1042 Sequoia Natl Park
+USCA1043 Shafter
+USCA1044 Shandon
+USCA1045 Shasta
+USCA1046 Shasta Lake
+USCA1047 Shaver Lake
+USCA1048 Sheep Ranch
+USCA1049 Shelter Cove
+USCA1050 Sheridan
+USCA1051 Sherman Oaks
+USCA1052 Shingle Springs
+USCA1053 Shingletown
+USCA1054 Shoshone
+USCA1055 Sierra City
+USCA1056 Sierra Madre
+USCA1057 Sierra-at-tahoe
+USCA1058 Sierraville
+USCA1059 Silverado
+USCA1060 Simi Valley
+USCA1061 Ski Homewood
+USCA1062 Skyforest
+USCA1063 Sloughhouse
+USCA1064 Smartsville
+USCA1065 Smith River
+USCA1066 Snelling
+USCA1067 Snow Summit Mountain Resort
+USCA1068 Snow Valley Ski Area
+USCA1069 Soda Springs
+USCA1070 Solana Beach
+USCA1071 Soledad
+USCA1072 Solvang
+USCA1073 Somerset
+USCA1074 Somes Bar
+USCA1075 Somis
+USCA1076 Sonoma
+USCA1077 Sonora
+USCA1078 Soquel
+USCA1079 Soulsbyville
+USCA1080 South Dos Palos
+USCA1081 South El Monte
+USCA1082 South Gate
+USCA1083 South Lake Tahoe
+USCA1084 South Pasadena
+USCA1085 South San Francisco
+USCA1086 Spreckels
+USCA1087 Spring Valley
+USCA1088 Springville
+USCA1089 Squaw Valley
+USCA1090 Squaw Valley USA
+USCA1091 Standard
+USCA1092 Standish
+USCA1093 Stanford
+USCA1094 Stanton
+USCA1095 Stevenson Ranch
+USCA1096 Stevinson
+USCA1097 Stewarts Point
+USCA1098 Stinson Beach
+USCA1099 Stirling City
+USCA1100 Stockton
+USCA1101 Stonyford
+USCA1102 Storrie
+USCA1103 Stratford
+USCA1104 Strathmore
+USCA1105 Strawberry
+USCA1106 Strawberry Valley
+USCA1107 Studio City
+USCA1108 Sugar Bowl Ski Resort
+USCA1109 Sugarloaf
+USCA1110 Suisun
+USCA1111 Sultana
+USCA1112 Summerland
+USCA1113 Sun City
+USCA1114 Sun Valley
+USCA1115 Sunland
+USCA1116 Sunnyvale
+USCA1117 Sunol
+USCA1118 Sunset Beach
+USCA1119 Surfside
+USCA1120 Susanville
+USCA1121 Sutter
+USCA1122 Sutter Creek
+USCA1123 Sylmar
+USCA1124 Taft
+USCA1125 Tahoe City
+USCA1126 Tahoe Donner Ski Bowl
+USCA1127 Tahoe Vista
+USCA1128 Tahoma
+USCA1129 Talmage
+USCA1130 Tarzana
+USCA1131 Taylorsville
+USCA1132 Tecate
+USCA1133 Tecopa
+USCA1134 Tehachapi
+USCA1135 Tehama
+USCA1136 Temecula
+USCA1137 Temple City
+USCA1138 Templeton
+USCA1139 Termo
+USCA1140 Terra Bella
+USCA1141 The Sea Ranch
+USCA1142 Thermal
+USCA1143 Thornton
+USCA1144 Thousand Oaks
+USCA1145 Thousand Palms
+USCA1146 Three Rivers
+USCA1147 Tipton
+USCA1148 Tollhouse
+USCA1149 Toluca Lake
+USCA1150 Tomales
+USCA1151 Topanga
+USCA1152 Topaz
+USCA1153 Torrance
+USCA1154 Trabuco Canyon
+USCA1155 Tracy
+USCA1156 Tranquillity
+USCA1157 Traver
+USCA1158 Travis AFB
+USCA1159 Tres Pinos
+USCA1160 Trinidad
+USCA1161 Trinity Center
+USCA1162 Trona
+USCA1163 Truckee
+USCA1164 Tujunga
+USCA1165 Tulare
+USCA1166 Tulelake
+USCA1167 Tuolumne
+USCA1168 Tupman
+USCA1169 Turlock
+USCA1170 Tustin
+USCA1171 Twain
+USCA1172 Twain Harte
+USCA1173 Twentynine Palms
+USCA1174 Twin Bridges
+USCA1175 Twin Peaks
+USCA1176 Ukiah
+USCA1177 Union City
+USCA1178 Universal City
+USCA1179 Upland
+USCA1180 Upper Lake
+USCA1181 Vacaville
+USCA1182 Valencia
+USCA1183 Vallecito
+USCA1184 Vallejo
+USCA1185 Valley Center
+USCA1186 Valley Ford
+USCA1187 Valley Springs
+USCA1188 Valley Village
+USCA1189 Valyermo
+USCA1190 Van Nuys
+USCA1191 Vandenberg Range
+USCA1192 Venice
+USCA1193 Ventura
+USCA1194 Verdugo City
+USCA1195 Vernalis
+USCA1196 Victor
+USCA1197 Victorville
+USCA1198 Vidal
+USCA1199 Villa Grande
+USCA1200 Villa Park
+USCA1201 Vina
+USCA1202 Vineburg
+USCA1203 Vinton
+USCA1204 Visalia
+USCA1205 Vista
+USCA1206 Volcano
+USCA1207 Wallace
+USCA1208 Walnut
+USCA1209 Walnut Creek
+USCA1210 Walnut Grove
+USCA1211 Warner Springs
+USCA1212 Wasco
+USCA1213 Washington
+USCA1214 Waterford
+USCA1215 Watsonville
+USCA1216 Waukena
+USCA1217 Weaverville
+USCA1218 Weed
+USCA1219 Weimar
+USCA1220 Weldon
+USCA1221 Wendel
+USCA1222 Weott
+USCA1223 West Covina
+USCA1224 West Hills
+USCA1225 West Hollywood
+USCA1226 West Point
+USCA1227 West Sacramento
+USCA1228 Westlake Village
+USCA1229 Westley
+USCA1230 Westminster
+USCA1231 Westmorland
+USCA1232 Westport
+USCA1233 Westwood
+USCA1234 Wheatland
+USCA1235 Whiskeytown
+USCA1236 White Water
+USCA1237 Whitethorn
+USCA1238 Whitmore
+USCA1239 Whittier
+USCA1240 Wildomar
+USCA1241 Williams
+USCA1242 Willits
+USCA1243 Willow Creek
+USCA1244 Willows
+USCA1245 Wilmington
+USCA1246 Wilseyville
+USCA1247 Wilton
+USCA1248 Winchester
+USCA1249 Windsor
+USCA1250 Winnetka
+USCA1251 Winterhaven
+USCA1252 Winters
+USCA1253 Winton
+USCA1254 Wishon
+USCA1255 Witter Springs
+USCA1256 Wofford Heights
+USCA1257 Woodacre
+USCA1258 Woodbridge
+USCA1259 Woodlake
+USCA1260 Woodland
+USCA1261 Woodland Hills
+USCA1262 Woody
+USCA1263 Wrightwood
+USCA1264 Yermo
+USCA1265 Yettem
+USCA1266 Yolo
+USCA1267 Yorba Linda
+USCA1268 Yorkville
+USCA1269 Yosemite Natl Park
+USCA1270 Yountville
+USCA1271 Yreka
+USCA1272 Yuba City
+USCA1273 Yucaipa
+USCA1274 Yucca Valley
+USCA1275 Zamora
+USCA1276 Zenia
+USCA1277 Sacramento-Mather
+USCA1290 American Canyon
+USCA1291 Lyoth
+USCA1292 El Toro
+USCA1293 Lennox
+USCA1294 Bostonia
+USCA1295 Hillsborough
+USCA1296 Foster City
+USCA1297 Cameron Park
+USCA1300 Ladera Ranch
+USCA1301 Signal Hill
+USCA1302 White Mountain
+USCA1303 Hidden Valley Lake
+USCA1304 Laguna Woods
+USCA1305 San Clemente Island
+USCA1306 The Disneyland Resort
+USCA1307 Disney California Adventure
+USCA1308 Porter Ranch
+USCA1309 Discovery Bay
+USCA1310 Pine Mountain Club
+USCA1311 Dodgertown
+USCA1312 El Mirage
+USCA1313 Idria
+USCA1314 Whitmore Hot Springs
