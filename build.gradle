@@ -11,20 +11,35 @@ buildscript {
 }
 
 apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'application'
 apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
+mainClassName = 'MylifeApplication'
 group = 'com.th'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '1.8'
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    compile 'org.jsoup:jsoup:1.11.3'    
+    //jsoup html parser api 
+    compile 'org.jsoup:jsoup:1.11.3'
+
+    //springboot framework api
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+    //google calendar api
+    compile 'com.google.api-client:google-api-client:1.23.0'
+    compile 'com.google.oauth-client:google-oauth-client-jetty:1.23.0'
+    compile 'com.google.apis:google-api-services-calendar:v3-rev305-1.23.0'
+
+    compile group: 'com.hynnet', name: 'javax.servlet-api', version: '3.1.0'
+
 }

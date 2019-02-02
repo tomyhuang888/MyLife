@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Weather</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<table>
+    <tr th:each="event : ${events}">
+        <td th:text="${event.getSummary() + '    ' + event.getStart().getDateTime()}">event</td>
+    </tr>
+</table>
+<!--<p th:text="'Hello, ' + ${name} + '!'" />-->
+</body>
+</html>
